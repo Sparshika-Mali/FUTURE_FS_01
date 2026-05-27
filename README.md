@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern AI-Powered Full Stack Developer Portfolio
 
 A futuristic, premium developer portfolio website built for **Sparshika Ravindra Mali**. Features a glassmorphism UI, gradient effects, smooth animations, a dark/light mode toggle, and a responsive design.
@@ -83,3 +84,6 @@ Providers include:
 - [PlanetScale](https://planetscale.com/)
 - AWS RDS
 Update your backend's `.env` file on Render with the cloud database credentials.
+=======
+# FUTURE_FS_01
+>>>>>>> 20fa6f31adf7525903cc6126288cabd5c48c2b46
